@@ -1,6 +1,6 @@
-import './App.css'
-import joblistings from './store/joblistings'
-import JobCard from './components/JobCard'
+import './App.css';
+import joblistings from './store/joblistings';
+import JobCard from './components/JobCard';
 
 function App() {
 
